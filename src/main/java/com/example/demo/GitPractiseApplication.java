@@ -8,7 +8,7 @@ public class GitPractiseApplication {
 int y=10;
 
 	public static void main(String[] args) {
-                       int z=13;
+                     String name="chanu";
 
 		SpringApplication.run(GitPractiseApplication.class, args);
 	}
