@@ -6,9 +6,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class GitPractiseApplication {
 int y=10;
+String name="chandiniiii";
 String message="hiiiiiiiiiii";
-
-	public static void main(String[] args) {
+  
+public static void main(String[] args) {
                      String name="chanu";
                       String address=""rjy;
 
