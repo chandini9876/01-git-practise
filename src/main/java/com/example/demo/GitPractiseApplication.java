@@ -7,7 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GitPractiseApplication {
 int y=10;
 String name="chandiniiii";
-	public static void main(String[] args) {
+String message="hiiiiiiiiiii";
+  
+public static void main(String[] args) {
                      String name="chanu";
                       String address=""rjy;
 
