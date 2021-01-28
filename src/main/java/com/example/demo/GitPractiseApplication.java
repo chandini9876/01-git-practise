@@ -9,6 +9,7 @@ int y=10;
 
 	public static void main(String[] args) {
                      String name="chanu";
+                     int a=10;
 
 		SpringApplication.run(GitPractiseApplication.class, args);
 	}
