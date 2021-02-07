@@ -8,7 +8,7 @@ public class GitPractiseApplication {
 int y=10;
 
 	public static void main(String[] args) {
-		system.out.println("git practise");
+		System.out.println("git practise");
                      String name="chanu";
                      int a=10;
 
